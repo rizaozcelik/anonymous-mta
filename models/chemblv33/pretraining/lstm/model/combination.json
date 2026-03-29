@@ -1,0 +1,20 @@
+{
+    "hps": {
+        "n_layers": 6,
+        "model_dim": 256,
+        "dropout": 0.25,
+        "vocab_size": 33,
+        "sequence_length": 82,
+        "learning_rate": 0.005,
+        "n_max_epochs": 1000,
+        "batch_size": 8192,
+        "device": "cuda"
+    },
+    "misc": {
+        "combination_idx": 34,
+        "min_val_loss": 0.5665449129104614,
+        "final_val_loss": 0.5665492630958557,
+        "best_epoch": 101,
+        "training_time": "2:41:55.932177"
+    }
+}
