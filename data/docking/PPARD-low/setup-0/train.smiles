@@ -1,0 +1,12 @@
+CCCCN(c1cccc(-c2ccc(Cl)cc2)c1C)S(=O)(=O)c1ccc(OC(C)C(=O)O)c(OC)c1OC
+CC(C)C1=C(CCc2noc3cc(OC(C)(C)C(=O)O)ccc23)NC(=C2C=CC=CC2=O)O1
+CCCCN(c1cccc(-c2ccc(Cl)cc2)c1Cl)S(=O)(=O)c1ccc(OC(C)C(=O)O)c(C)c1C
+COc1ccc(-c2nc(COc3ccc4c(CC(=O)O)cccc4c3)sc2-c2ccc(C(F)(F)F)cc2)cc1
+CCCCCCc1oc(-c2ccccc2Cl)nc1CCc1noc2cc(OC(C)(C)C(=O)O)ccc12
+Cc1cc(OCC=CC(C#Cc2ccc(CO)cc2)c2ccc(Br)cc2)ccc1OCC(=O)O
+Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C
+CCCc1c(OCCCOc2ccc(CCCC(=O)O)cc2)ccc2c(-c3ccccc3)noc12
+Cc1cc(SCC=C(c2ccc(Br)cc2)c2ccc(Br)cc2)ccc1OCC(=O)O
+CC1=Cc2cc(C#CC(C=CCOc3ccc(OCC(=O)O)c(C)c3)c3ccc(Br)cc3)ccc2S1(=O)=O
+CCc1ccc(-c2ncc(CC)c(N(C)CCCOc3ccc4c(c3)CCC4CC(=O)O)n2)cc1
+Cc1cc2cc(C(C#Cc3ccc(F)cc3)C=CCOc3ccc(OCC(=O)O)c(C)c3)ccc2o1
