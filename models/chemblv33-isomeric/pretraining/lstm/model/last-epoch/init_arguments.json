@@ -1,0 +1,11 @@
+{
+    "n_layers": 6,
+    "model_dim": 256,
+    "dropout": 0.25,
+    "vocab_size": 34,
+    "sequence_length": 91,
+    "learning_rate": 0.0001,
+    "n_max_epochs": 1000,
+    "batch_size": 8192,
+    "device": "cuda"
+}
